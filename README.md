@@ -1,6 +1,9 @@
 # Coursera_JavaScript
-# JavaScript Functional Logic & Scoping Lab
-Not logging the consoleStyler() variables
+# JavaScript Functional Logic & Scoping Lab   
+Failed Test 1: Not logging the consoleStyler() variables   
+Passed Test 2: successfully logged celebrateStyler() variables   
+Failed Test 3: Not calling consoleStyler() and celebrateStyler()   
+Failed Test 4: Not calling styleAndCelebrate()  
 
 This project explores functional programming patterns and the critical differences between variable declarations in JavaScript.
 ---
